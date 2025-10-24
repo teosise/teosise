@@ -6,6 +6,6 @@
 
 
 ---
-![Logo ercilla](src="https://tse1.mm.bing.net/th/id/OIP.fONRh-a5R6FpsrQMTYhpZwHaHL?rs=1&pid=ImgDetMain&o=7&rm=3)
+![Logo ercilla](/img/OIP.png)
 
 
